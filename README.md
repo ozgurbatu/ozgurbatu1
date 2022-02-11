@@ -21,7 +21,7 @@
 
 <p>&nbsp;</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozgurbatu&show_icons=true&locale=en&layout=compact" alt="ozgurbatu" /></p>
-<p>&nbsp;</p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozgurbatu&show_icons=true&locale=en" alt="ozgurbatu" /></p>
-<p>&nbsp;</p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozgurbatu&" alt="ozgurbatu" /></p>
