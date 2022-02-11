@@ -8,6 +8,7 @@
 - 💬 Ask me about **Java, Lambda, JDBC, MySQL, HTML5, CSS, Selenium, JUnit, TestNG, Cucumber**
 
 - 📫 How to reach me **ozgurbatu14@gmail.com**
+<p>&nbsp;</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
