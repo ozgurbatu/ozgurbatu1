@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Özgür BATU</h1>
 <h3 align="center">Software Developer Engineering in Test</h3>
 
-![snake gif](https://github.com/ozgurbatu/ozgurbatu/blob/output/github-contribution-grid-snake.gif)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozgurbatu" alt="ozgurbatu" /></a> </p>
 
