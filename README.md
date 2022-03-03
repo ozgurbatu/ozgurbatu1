@@ -23,6 +23,8 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+ </p>
+ 
 ![Java](https://img.shields.io/badge/-Java-%23007396?&style=for-the-badge&logo=Java&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?&style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -36,7 +38,7 @@
 ![Eclips](https://img.shields.io/badge/Eclips%20IDE-%232C2255?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
-</p>
+
 
 
 <p>&nbsp;</p>
