@@ -1,13 +1,13 @@
 <img src="https://github.com/ozgurbatu/ozgurbatu/blob/main/image.jpg?raw=true">
 
 <h1 align="center">Hi 👋, I'm Özgür BATU</h1>
-<h3 align="center">Software Developer Engineering in Test</h3>
+<h3 align="center">QA Tester</h3>
 
 ![snake gif](https://github.com/ozgurbatu/ozgurbatu/blob/output/github-contribution-grid-snake.gif)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozgurbatu" alt="ozgurbatu" /></a> </p>
 
-- 💬 Ask me about **Java, API, Lambda, JDBC, MySQL, HTML5, CSS, Selenium, JUnit, TestNG, Cucumber**
+- 💬 Ask me about **Java, API, Lambda, JDBC, MySQL, HTML5, CSS, Selenium, JUnit, TestNG, Cucumber, Appium, Cypress**
 
 - 📫 How to reach me **ozgurbatu14@gmail.com**
 <p>&nbsp;</p>
